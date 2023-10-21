@@ -1,0 +1,7 @@
+
+.l-header{
+    @include mq(tb){
+        position: relative;
+
+    }
+}
